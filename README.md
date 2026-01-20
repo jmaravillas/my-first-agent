@@ -91,13 +91,13 @@ Built during **Agentics 101** to master specification-driven development.
 ## Project Structure
 
 
-
+```
 my-first-agent/ 
 ├── specs/ # 📋 Specifications (read-only for agent) 
 ├── docs/ # 📦 Generated code (deployed) 
 ├── SAFETY.md # 🛡️ Safety protocols 
 └── README.md # 📖 Documentation
-
+```
 
 
 ## How to Use
