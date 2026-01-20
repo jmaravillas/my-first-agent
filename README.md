@@ -94,7 +94,7 @@ Built during **Agentics 101** to master specification-driven development.
 
 my-first-agent/ 
 ├── specs/ # 📋 Specifications (read-only for agent) 
-├── src/ # 📦 Generated code (deployed) 
+├── docs/ # 📦 Generated code (deployed) 
 ├── SAFETY.md # 🛡️ Safety protocols 
 └── README.md # 📖 Documentation
 
@@ -110,7 +110,7 @@ my-first-agent/
 
 3. **Review Output** for accuracy and quality
 
-4. **Deploy** to `src/` and commit changes
+4. **Deploy** to `docs/` and commit changes
 
 
 
